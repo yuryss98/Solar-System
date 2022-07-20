@@ -17,6 +17,5 @@ const Planets = [
   { name: 'Urano', image: Uranoimg },
   { name: 'Netuno', image: Netunoimg },
 ];
-// comite
 
 export default Planets;
