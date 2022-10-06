@@ -6,8 +6,10 @@ import JupiterImg from '../images/Jupiter.png';
 import SaturnoImg from '../images/Saturno.png';
 import Uranoimg from '../images/Urano.png';
 import Netunoimg from '../images/Netuno.png';
+import sol from '../images/Sol.png'
 
 const Planets = [
+  { image: sol },
   { name: 'Mercúrio', image: MercurioImg },
   { name: 'Vênus', image: VenusImg },
   { name: 'Terra', image: TerraImg },
