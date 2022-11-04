@@ -23,7 +23,7 @@ uma pessoa usuária deverá ser capaz de:
 
 Clone o projeto
 
-  -- git@github.com:yuryss98/Solar-System.git
+  -- git clone git@github.com:yuryss98/Solar-System.git
 
 Va para o diretorio do projeto
 
